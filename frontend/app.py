@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # API URL (Update this URL with your backend API endpoint)
-API_URL = "http://127.0.0.1:8000/chat/"
+API_URL = "https://chatbotbackend-1-9yy2.onrender.com/chat/"
 
 # Streamlit app configuration
 st.set_page_config(page_title="Chatbot", page_icon="🤖", layout="centered")
