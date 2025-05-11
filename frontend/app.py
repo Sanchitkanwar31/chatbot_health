@@ -33,4 +33,4 @@ if user_input:
 
 # Display the footer
 st.markdown("---")
-st.markdown("Made with ❤️ using Streamlit.")
+st.markdown("Made by Pulse Health ⛑️.")
